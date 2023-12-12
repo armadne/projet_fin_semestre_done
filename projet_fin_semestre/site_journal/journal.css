@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Roboto+Condensed:wght@300&display=swap');
+
+
+body
+
+{
+    background-color: bisque;
+    text-align: center;
+    zoom: 75%;
+    font-size: 25px;
+    font-family: 'Roboto Condensed', 'Arial', sans-serif;
+
+}
+
+ul
+
+{
+    display: flex;
+    border: 2px solid black;
+    width: 422px;
+    margin-left: 750px;
+    margin-right: 900px;
+    font-size: 28px;
+        
+}
+
+li
+
+{
+    list-style: none;
+}
+
+a
+{
+    margin-left: 50px;
+}
+
+
+
+
+section.article1
+
+{
+    margin-left: 20px;
+    padding-left: -600px;
+}
+
+
+h3
+
+{
+    font-weight: bolder;
+}
+
+img
+
+{
+    border: 4px solid black;
+    border-radius: 10%;
+    width:  500px;
+    height: 400px;
+    margin-bottom: 55px;
+}
+
+
+a:hover img
+
+{
+    opacity: 0.5;
+    transition: 0.7s ease-in-out;
+    transform: scale(0.8);
+}
+
+
+img.img1
+
+{
+    width:  700px;
+    height: 600px;
+
+}
+
+img.img2
+
+{
+    width: 710px;
+    height: 500px;
+}
+
+p.text1
+
+{
+    text-align: end;
+    padding-bottom: 55px;
+}
+
+

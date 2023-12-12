@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,200;1,100&display=swap'); /* importer depuis https://fonts.google.com */
+
+
+body
+
+{
+    background-color: bisque;
+    font-size: 22px;
+    font-family: 'Roboto Condensed', 'Arial', sans-serif;
+}
+
+#bloc_page 
+
+{
+    position: relative;
+    width: 1097px;
+    margin-left: 700px;
+}
+
+h1
+
+{
+    text-align: center;
+    font-size: 2em;
+}
+
+img
+
+{
+    margin-left: 300px;
+    width: 500px;
+    height: 350px;
+}
+
+h3
+{
+    margin-left: 44px;
+    text-align: center;
+}
+
+ul
+
+{
+    margin-left: -45px;
+}
+
+li 
+
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#définition
+
+{
+    text-align: center;
+}
+
+#bienveillant
+
+{
+    text-align: center;
+}
+
+#malveillant
+
+{
+    text-align: center;
+}
+
+
+.p1
+
+{
+    text-align: center;
+}
+
+.p2
+
+{
+    text-align: center;
+}
+
+
+.p3
+
+{
+    text-align: center;
+}
